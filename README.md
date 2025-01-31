@@ -24,7 +24,10 @@ git clone https://github.com/Mahdi-Hasan/ToDo_app.git
 cd ToDo_app
 
 # To run Backend
-cd backend
+cd .\Backend\
+For PowerShell issue with execution policy
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 npm install
 npm start
 ```
