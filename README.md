@@ -19,6 +19,10 @@ A simple and efficient task management application built with Express.js, Node.j
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
+
   [ git clone https://github.com/yourusername/todo-app.git](https://github.com/Mahdi-Hasan/ToDo_app.git)
-   cd Backend
+2. To run Backend
+   cd backend
+   npm install
+   npm start
+
